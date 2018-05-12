@@ -1,0 +1,39 @@
+header{
+  background: #0C002B;
+  color: white;
+  overflow: auto;
+  padding: 25px 15px;
+}
+
+.logo{
+  float: left;
+}
+nav{
+  float: right;
+}
+nav a{
+  color: white;
+  text-decoration: none;
+  margin-left: 2em;
+  font-weight: 300;
+}
+.register-btn{
+  background: #FF718E;
+  border-radius: 5px;
+  padding: 10px 30px;
+  color: white;
+  text-align: center;
+
+}
+
+a:hover{
+  color: #FF718E;
+}
+
+.image{
+  width: 400px;
+
+}
+.houses{
+  max-width: 100%
+}

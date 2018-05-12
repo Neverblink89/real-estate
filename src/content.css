@@ -1,0 +1,52 @@
+#filter{
+  background: #FAF7F5;
+  width: 25%;
+  color: grey;
+}
+.inside{
+  padding: 20px;
+}
+h4{
+  font-size: .9rem;
+  margin-bottom: 25px;
+  text-transform: uppercase;
+  font-weight: 600px;
+}
+select{
+  background: transparent;
+  padding: 10px;
+  font-size: 14px;
+  font-weight: 500px;
+  color:#1b1b1b;
+  display: block;
+  margin-bottom: 25px;
+  width: 80%;
+}
+.filters, .title{
+font-size: 0.9rem;
+display: block;
+margin-bottom: 1rem;
+}
+input[type="text"]{
+  border-radius: 5px;
+  padding: 0.4rem;
+  width: 45%;
+  display: inline-block;
+  margin-right: 2.5%;
+  margin-bottom:1rem;
+}
+label, .extras{
+  display: block;
+  width: 80%;
+  margin-top:2em;
+  border-bottom: 1px solid grey;
+  padding-bottom: 15px;
+}
+input[type='checkbox']{
+  float: right;
+  font-size: 4em;
+
+}
+.input{
+  display: 
+}
